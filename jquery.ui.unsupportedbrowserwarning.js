@@ -18,7 +18,7 @@
 
 /*------------------------------------------------------------------------------
 | jquery.ui.unsupportedbrowserwarning.js
-| 55 Minutes JS utilities v3.2-pre
+| 55 Minutes JS utilities v4.0
 | Author(s): Richa Avasthi
 | Created: 2011-11-02
 ------------------------------------------------------------------------------*/

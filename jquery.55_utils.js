@@ -18,7 +18,7 @@
 
 /*------------------------------------------------------------------------------
 | jquery.55_utils.js
-| 55 Minutes jQuery JS utilities v3.2-pre
+| 55 Minutes jQuery JS utilities v4.0
 | Author(s): Richa Avasthi
 | Created: 2009-12-02
 |
